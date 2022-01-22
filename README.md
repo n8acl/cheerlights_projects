@@ -1,5 +1,5 @@
 # My CheerLights Projects
-A catch all for my cheerlights projects
+A catch all for my CheerLights projects
 
 ---
 
